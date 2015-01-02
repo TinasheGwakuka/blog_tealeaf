@@ -2,24 +2,8 @@
 
 Tealeaf Academy, Blog application.  Kudzai Nyandoro, kudzai@zambezi.io.
 
-Things you may want to cover:
+* Ruby version 2.1.2p95
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails version 4.2.0
 
 <tt>rake doc:app</tt>.
